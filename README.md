@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update Colab notebook for YOLOv8.1 (#8660)
