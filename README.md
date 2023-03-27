@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
