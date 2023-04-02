@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update Colab notebook for YOLOv8.1 (#8660)
