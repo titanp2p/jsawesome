@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update H1 in Explorer API docs (#7813)
