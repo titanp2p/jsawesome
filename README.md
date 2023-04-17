@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update CI.md with CI links (#8786)
