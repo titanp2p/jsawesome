@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Improve Docs arguments tables (#8415)
