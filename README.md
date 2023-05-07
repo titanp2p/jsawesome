@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+* fix for predicting with batch_size > 1
