@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add visuals in guides/distance-calculation.md (#7876)
