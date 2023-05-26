@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
