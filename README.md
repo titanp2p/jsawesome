@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix device counting method to account for double-digit device IDs (#8502)
