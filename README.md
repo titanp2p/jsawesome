@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Move Explorer tests to scheduled CI (#8305)
