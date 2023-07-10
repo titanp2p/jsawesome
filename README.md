@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
