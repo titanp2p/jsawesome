@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
