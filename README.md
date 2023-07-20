@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update Docs Home and Neural Magic pages (#7243)
