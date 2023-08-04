@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
