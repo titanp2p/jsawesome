@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
