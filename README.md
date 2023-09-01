@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
