@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
