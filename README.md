@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add Weights & Biases Docs integrations page (#7199)
