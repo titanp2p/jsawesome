@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
