@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
