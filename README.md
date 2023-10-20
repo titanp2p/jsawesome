@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update TFLite Docs images (#8605)
