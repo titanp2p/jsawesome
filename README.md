@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Update Discord and Contributing Guide URLs (#9270)
