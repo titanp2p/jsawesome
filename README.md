@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
