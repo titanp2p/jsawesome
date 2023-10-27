@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fix PNNX ubuntu -> linux bug (#7050)
