@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Python refactorings and simplifications (#7549)
