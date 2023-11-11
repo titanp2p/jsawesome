@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
