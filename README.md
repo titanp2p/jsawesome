@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Updating a typo on paddlepaddle.md (#9108)
