@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
