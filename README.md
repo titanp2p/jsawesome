@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update Docs language dropdown height (#6927)
