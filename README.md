@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Avoid creating -hub dir without processing images (#8334)
