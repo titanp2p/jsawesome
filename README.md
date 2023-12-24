@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add YouTube iframe loading=lazy (#8001)
