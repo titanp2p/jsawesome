@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Cleanup Docs languages (#7865)
