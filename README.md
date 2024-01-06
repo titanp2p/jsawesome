@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
