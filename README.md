@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+fix yolo classify model loading error (#9196)
