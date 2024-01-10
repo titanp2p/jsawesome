@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add docstrings to new HUB functions (#7576)
