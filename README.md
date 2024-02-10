@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
