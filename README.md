@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+OBB: Fix plot_images (#7592)
