@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
