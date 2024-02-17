@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add C++ Classify inference example (#6868)
