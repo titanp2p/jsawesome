@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add new YOLOv8 OBB model metrics (#7379)
