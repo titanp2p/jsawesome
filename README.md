@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
