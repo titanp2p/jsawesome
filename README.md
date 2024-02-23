@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
