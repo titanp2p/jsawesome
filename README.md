@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
