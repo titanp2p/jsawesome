@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Reverse IoU threshold for NMS docs descriptions (#9151)
