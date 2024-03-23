@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
