@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add YOLOv8 LibTorch C++ inference example (#7090)
