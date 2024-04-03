@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add estimate_speed(region_color) parameter (#8285)
