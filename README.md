@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Allow Annotator PIL.Image inputs (#8397)
