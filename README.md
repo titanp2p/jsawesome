@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+fix for predicting with batch_size > 1 (#47)
