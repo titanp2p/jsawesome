@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
