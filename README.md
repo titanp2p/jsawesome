@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
