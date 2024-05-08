@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Replace onnx2tf usage from CLI to Python (#8429)
