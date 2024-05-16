@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
