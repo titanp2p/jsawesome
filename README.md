@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Improve Coral Edge TPU guide (#8160)
