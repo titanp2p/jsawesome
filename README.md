@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
