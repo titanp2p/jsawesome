@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Update pyproject.toml and Docs (#7274)
