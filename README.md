@@ -1,1 +1,1 @@
-example Google Colab
+Update neural-magic.md (#7347)
