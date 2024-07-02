@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
