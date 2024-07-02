@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
