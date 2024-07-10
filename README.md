@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
