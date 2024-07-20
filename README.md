@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+New HUB Cloud Training docs page (#8174)
