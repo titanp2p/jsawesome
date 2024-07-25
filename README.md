@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
