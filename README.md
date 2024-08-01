@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Fix PIL show() and save() (#8202)
