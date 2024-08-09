@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Python refactorings and simplifications (#7549)
