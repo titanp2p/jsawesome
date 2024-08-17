@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
