@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+fix predict with class filter
