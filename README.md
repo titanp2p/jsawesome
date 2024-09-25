@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
