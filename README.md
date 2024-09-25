@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
