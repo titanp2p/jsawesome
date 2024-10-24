@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix docker.yaml double-quote version bug (#7452)
