@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Merge pull request #22 from SkalskiP/patch-1
