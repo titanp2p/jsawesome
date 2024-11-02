@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
